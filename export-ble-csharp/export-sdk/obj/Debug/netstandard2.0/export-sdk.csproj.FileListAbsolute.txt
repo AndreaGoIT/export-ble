@@ -1,0 +1,12 @@
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\bin\Debug\netstandard2.0\export-sdk.deps.json
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\bin\Debug\netstandard2.0\export-sdk.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\bin\Debug\netstandard2.0\export-sdk.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\bin\Debug\netstandard2.0\export-sdk-server.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\bin\Debug\netstandard2.0\export-sdk-server.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.csprojAssemblyReference.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.csproj.CoreCompileInputs.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.AssemblyInfoInputs.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.AssemblyInfo.cs
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.csproj.CopyComplete
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk\obj\Debug\netstandard2.0\export-sdk.pdb

@@ -1,0 +1,39 @@
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-ble-csharp.dll
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-ble-csharp.pdb
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\bin\Debug\export_ble_csharp.export_ble_csharp.apk
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\bin\Debug\export_ble_csharp.export_ble_csharp-Signed.apk
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.nuget.stamp
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\libraryimports.cache.stamp
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\res.flag
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.csproj.CoreCompileInputs.cache
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.dll
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.pdb
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\android\bin\export_ble_csharp.export_ble_csharp.apk
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\res\values\strings.xml
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\R.cs.flag
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\R.txt
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\uploadflags.txt
+C:\Work\1.FW-SW\export ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.csprojAssemblyReference.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-ble-csharp.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-ble-csharp.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export_ble_csharp.export_ble_csharp.apk
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export_ble_csharp.export_ble_csharp-Signed.apk
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\libraryimports.cache.stamp
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\res.flag
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.csproj.CoreCompileInputs.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\android\bin\export_ble_csharp.export_ble_csharp.apk
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\res\values\strings.xml
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\R.cs.flag
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\R.txt
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\uploadflags.txt
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-sdk.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-sdk-server.dll
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-sdk.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\bin\Debug\export-sdk-server.pdb
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.csprojAssemblyReference.cache
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.csproj.CopyComplete
+C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-ble-csharp\obj\Debug\81\export-ble-csharp.nuget.stamp
