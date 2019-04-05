@@ -11,7 +11,7 @@ Finally the .AAR library is testable in the Android application **HelloBleCSharp
 ## Getting Started
 
 * The Android test application **ExportBleCSharp** is developed in Android Studio 3.3.
-* The Xamarin Android library **export-ble-csharp** is developed in Visual Studio 2017
+* The Xamarin Android library **export-ble-csharp** is developed in Visual Studio 2019
 
 ## Authors
 

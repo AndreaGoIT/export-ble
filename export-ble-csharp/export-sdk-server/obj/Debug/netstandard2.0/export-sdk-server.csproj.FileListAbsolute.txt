@@ -1,9 +1,0 @@
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\bin\Debug\netstandard2.0\export-sdk-server.deps.json
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\bin\Debug\netstandard2.0\export-sdk-server.dll
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\bin\Debug\netstandard2.0\export-sdk-server.pdb
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.csproj.CoreCompileInputs.cache
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.AssemblyInfoInputs.cache
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.AssemblyInfo.cs
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.dll
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.pdb
-C:\Work\1.FW-SW\export-ble\export-ble-csharp\export-sdk-server\obj\Debug\netstandard2.0\export-sdk-server.csprojAssemblyReference.cache
